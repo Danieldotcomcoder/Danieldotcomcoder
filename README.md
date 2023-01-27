@@ -3,6 +3,11 @@
 <h2> My name is Daniel </h2>
 <h3>I’m a full-stack web developer with knowledge in HTML, CSS, Javascript, React, Angular, Ruby on Rails and SQL. I am passionate about coding, I like to be creative and learn new technologies.
 </h3>
+
+<h3> Check my portfolio :) :) </h3>
+
+[Portfolio](https://danieldotcomcoder.github.io/new-portfolio/)
+
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/danieldotcomcoder.svg?style=social&label=Followers)](https://github.com/danieldotcomcoder?tab=followers)
