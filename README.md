@@ -16,13 +16,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieldotcomcoder&theme=radical)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldotcomcoder&show_icons=true&theme=cobalt)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldotcomcoder&layout=compact)](https://github.com/danieldotcomcoder/github-readme-stats)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=danieldotcomcoder)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br>
 
 ## Languages and Tools:
