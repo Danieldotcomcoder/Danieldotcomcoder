@@ -14,10 +14,6 @@ Check my [Portfolio](https://danieldotcomcoder.github.io/new-portfolio/)
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieldotcomcoder&theme=radical)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<br>
-
 ## Languages and Tools:
 
 <p style="display: flex; flex-direction: column;">
