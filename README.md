@@ -8,7 +8,8 @@ Check my [Portfolio](https://danieldotcomcoder.github.io/new-portfolio/)
 
 
 Currently working on: MazeSolver
-<img src="https://github.com/Danieldotcomcoder/Danieldotcomcoder/assets/87448628/1629a1ce-cc30-47ce-91ad-3437147ee619" width="450" height="450">
+
+<img src="https://github.com/Danieldotcomcoder/Danieldotcomcoder/assets/87448628/1629a1ce-cc30-47ce-91ad-3437147ee619" width="600" height="400">
 
 <br>
 
