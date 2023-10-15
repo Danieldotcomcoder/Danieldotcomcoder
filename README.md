@@ -6,11 +6,6 @@
 
 Check my [Portfolio](https://danieldotcomcoder.github.io/new-portfolio/)
 
-
-Currently working on: MazeSolver
-
-<img src="https://github.com/Danieldotcomcoder/Danieldotcomcoder/assets/87448628/1629a1ce-cc30-47ce-91ad-3437147ee619" width="600" height="400">
-
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/danieldotcomcoder.svg?style=social&label=Followers)](https://github.com/danieldotcomcoder?tab=followers)
