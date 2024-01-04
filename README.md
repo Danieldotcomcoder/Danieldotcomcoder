@@ -7,9 +7,6 @@
 Check my [Portfolio](https://danieldotcomcoder.github.io/new-portfolio/)
 
 <br>
-
-[![GitHub followers](https://img.shields.io/github/followers/danieldotcomcoder.svg?style=social&label=Followers)](https://github.com/danieldotcomcoder?tab=followers)
-
 <br>
 
 ## Languages and Tools:
