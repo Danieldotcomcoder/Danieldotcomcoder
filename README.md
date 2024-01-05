@@ -1,13 +1,14 @@
 ## Hello 👋
 
 <h2> My name is Daniel </h2>
-<h3>I’m a full-stack web developer with knowledge in HTML, CSS, Javascript, React, Angular, Ruby on Rails and SQL. I am passionate about coding, I like to be creative and learn new technologies.
+<h3>As a comprehensive web developer, I possess expertise in Javascript, Python, React, Ruby on Rails, and SQL. My enthusiasm for coding fuels my creativity and drives my continuous pursuit of new technological knowledge.
 </h3>
+
+<br>
 
 Check my [Portfolio](https://danieldotcomcoder.github.io/new-portfolio/)
 
-<br>
-<br>
+
 
 ## Languages and Tools:
 
