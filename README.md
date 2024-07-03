@@ -1,8 +1,7 @@
 ## Hello 👋
 
-<h2> My name is Daniel </h2>
-<h3>As a comprehensive web developer, I possess expertise in Javascript, Python, React, Ruby on Rails, and SQL. My enthusiasm for coding fuels my creativity and drives my continuous pursuit of new technological knowledge.
-</h3>
+<h2>Daniel, Full-Stack Web Developer</h2>
+<p>I craft dynamic web experiences using Javascript, Python, React, Ruby on Rails, and SQL. Passionate about code, creativity, and staying ahead of the tech curve.</p> 
 
 <br>
 
